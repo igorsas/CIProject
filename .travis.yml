@@ -11,6 +11,6 @@ cache:
 notifications:
   email:
     recipients:
-      - grootepam@gmail.com
+      - groot.epam@gmail.com
     on_success: always # default: change
     on_failure: always # default: always
