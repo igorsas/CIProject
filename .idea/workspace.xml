@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="99f850da-66df-4573-b541-ce34bfe58a4a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\Igor_Sas\IdeaProjects\CIProject\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XL8Dz8RB2nAI5uAX8GZ9757c6S" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.igor" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="99f850da-66df-4573-b541-ce34bfe58a4a" name="Default Changelist" comment="" />
+      <created>1580813898819</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580813898819</updated>
+    </task>
+    <task id="LOCAL-00001" summary="add gitignore">
+      <created>1580815151020</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1580815151020</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add travis">
+      <created>1580821480701</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1580821480701</updated>
+    </task>
+    <task id="LOCAL-00003" summary="fix email">
+      <created>1580821535543</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1580821535543</updated>
+    </task>
+    <task id="LOCAL-00004" summary="fix jdk version">
+      <created>1580821601059</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1580821601059</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add gitignore" />
+    <MESSAGE value="add travis" />
+    <MESSAGE value="fix email" />
+    <MESSAGE value="fix jdk version" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix jdk version" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="614" y="119" key="CommitChangelistDialog2" timestamp="1580821600036">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="614" y="119" key="CommitChangelistDialog2/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1580821600036" />
+    <state x="840" y="418" width="260" height="214" key="Github.ShareDialog" timestamp="1580815093862">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="840" y="418" width="260" height="214" key="Github.ShareDialog/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1580815093862" />
+    <state x="758" y="230" key="Github.UntrackedFilesDialog" timestamp="1580815109981">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="758" y="230" key="Github.UntrackedFilesDialog/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1580815109981" />
+    <state x="490" y="179" key="Maven.ArtifactSearchDialog" timestamp="1580813941948">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="490" y="179" key="Maven.ArtifactSearchDialog/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1580813941948" />
+    <state x="552" y="257" key="Vcs.Push.Dialog.v2" timestamp="1580821602665">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="257" key="Vcs.Push.Dialog.v2/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1580821602665" />
+    <state x="731" y="227" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1580813933198">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="731" y="227" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1580813933198" />
+  </component>
+</project>
