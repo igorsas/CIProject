@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="99f850da-66df-4573-b541-ce34bfe58a4a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +57,9 @@
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Igor_Sas\IdeaProjects\CIProject" />
     </key>
   </component>
   <component name="ServiceViewManager">
@@ -115,7 +120,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580821889847</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="add readme">
+      <created>1580822424422</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1580822424422</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -124,7 +136,8 @@
     <MESSAGE value="fix email" />
     <MESSAGE value="fix jdk version" />
     <MESSAGE value="add all shit" />
-    <option name="LAST_COMMIT_MESSAGE" value="add all shit" />
+    <MESSAGE value="add readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="add readme" />
   </component>
   <component name="WindowStateProjectService">
     <state x="614" y="119" key="CommitChangelistDialog2" timestamp="1580822423416">
@@ -143,10 +156,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="490" y="179" key="Maven.ArtifactSearchDialog/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1580813941948" />
-    <state x="552" y="257" key="Vcs.Push.Dialog.v2" timestamp="1580821891253">
+    <state x="552" y="257" key="Vcs.Push.Dialog.v2" timestamp="1580822457659">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="552" y="257" key="Vcs.Push.Dialog.v2/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1580821891253" />
+    <state x="552" y="257" key="Vcs.Push.Dialog.v2/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1580822457659" />
     <state x="731" y="227" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1580813933198">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
