@@ -6,7 +6,7 @@ import org.testng.annotations.Test;
 import static org.testng.Assert.assertFalse;
 import static org.testng.Assert.assertTrue;
 
-class MainTest {
+public class MainTest {
     private Main main;
 
     @BeforeClass

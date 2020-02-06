@@ -1,0 +1,22 @@
+plugins {
+    id "java"
+    id "maven"
+    id "org.sonarqube" version "2.7"
+}
+
+group = 'com.igor'
+version = '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile group: 'org.testng', name: 'testng', version:'7.0.0-beta3'
+    compile group: 'org.jacoco', name: 'jacoco-maven-plugin', version: '0.8.1'
+}
+
+test {
+    useTestNG()
+    options.suites("src/test/resources/testng.xml")
+}
