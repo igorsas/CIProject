@@ -4,19 +4,13 @@
     <list default="true" id="99f850da-66df-4573-b541-ce34bfe58a4a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.2/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.2/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.2/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.2/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.2/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.2/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.2/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.2/taskHistory/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.2/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.2/taskHistory/taskHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/igor/MainTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/com/igor/MainTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/com.igor.MainTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/com.igor.MainTest.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/com.igor.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/com.igor.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-com.igor.MainTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-com.igor.MainTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/sonar/report-task.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/sonar/report-task.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pre-commit" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -336,7 +330,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581063206209</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="added description">
+      <created>1581064578714</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1581064578714</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -344,7 +345,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -362,7 +365,9 @@
     <MESSAGE value="add JaCoCo Code Coverage" />
     <MESSAGE value="add sonarQube on docker-compose" />
     <MESSAGE value="meaningless changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="meaningless changes" />
+    <MESSAGE value="added description" />
+    <MESSAGE value="fix route to hook" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix route to hook" />
   </component>
   <component name="WindowStateProjectService">
     <state x="651" y="155" key="#C:/Users/Igor_Sas/IdeaProjects/CIProject/src/test/resources/testng.xml" timestamp="1580997135750">
@@ -381,10 +386,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="713" y="327" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1581062113228" />
-    <state x="614" y="119" key="CommitChangelistDialog2" timestamp="1581063204396">
+    <state x="1165" y="147" key="CommitChangelistDialog2" timestamp="1581081368793">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="614" y="119" key="CommitChangelistDialog2/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1581063204396" />
+    <state x="1165" y="147" key="CommitChangelistDialog2/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1581081368793" />
     <state x="92" y="92" width="1736" height="866" key="DiffContextDialog" timestamp="1580997486442">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -401,22 +406,22 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="758" y="230" key="Github.UntrackedFilesDialog/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1580815109981" />
-    <state width="1877" height="405" key="GridCell.Tab.0.bottom" timestamp="1580998381358">
+    <state width="1877" height="405" key="GridCell.Tab.0.bottom" timestamp="1581064604233">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="405" key="GridCell.Tab.0.bottom/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1580998381358" />
-    <state width="1877" height="405" key="GridCell.Tab.0.center" timestamp="1580998381358">
+    <state width="1877" height="405" key="GridCell.Tab.0.bottom/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1581064604233" />
+    <state width="1877" height="405" key="GridCell.Tab.0.center" timestamp="1581064604232">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="405" key="GridCell.Tab.0.center/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1580998381358" />
-    <state width="1877" height="405" key="GridCell.Tab.0.left" timestamp="1580998381358">
+    <state width="1877" height="405" key="GridCell.Tab.0.center/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1581064604232" />
+    <state width="1877" height="405" key="GridCell.Tab.0.left" timestamp="1581064604232">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="405" key="GridCell.Tab.0.left/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1580998381358" />
-    <state width="1877" height="405" key="GridCell.Tab.0.right" timestamp="1580998381358">
+    <state width="1877" height="405" key="GridCell.Tab.0.left/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1581064604232" />
+    <state width="1877" height="405" key="GridCell.Tab.0.right" timestamp="1581064604232">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="405" key="GridCell.Tab.0.right/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1580998381358" />
+    <state width="1877" height="405" key="GridCell.Tab.0.right/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1581064604232" />
     <state x="490" y="179" key="Maven.ArtifactSearchDialog" timestamp="1580813941948">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -425,10 +430,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="461" y="167" key="SettingsEditor/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1581061984075" />
-    <state x="552" y="257" key="Vcs.Push.Dialog.v2" timestamp="1580999007484">
+    <state x="552" y="257" key="Vcs.Push.Dialog.v2" timestamp="1581064582046">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="552" y="257" key="Vcs.Push.Dialog.v2/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1580999007484" />
+    <state x="552" y="257" key="Vcs.Push.Dialog.v2/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1581064582046" />
     <state x="731" y="227" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1580813933198">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>

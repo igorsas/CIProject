@@ -30,8 +30,6 @@ sonarqube {
 }
 
 task installGitHooks(type: Copy) {
-    from new File(rootProject.rootDir, 'pre-commit')
+    from new File(rootProject.rootDir, 'git-hooks/pre-commit.sh')
     into { new File(rootProject.rootDir, '.git/hooks') }
 }
-
-build.dependsOn installGitHooks
