@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Just tests" duration-ms="57" started-at="2020-02-06T12:45:11 EET" finished-at="2020-02-06T12:45:12 EET">
+    <groups>
+    </groups>
+    <test name="Just tests" duration-ms="57" started-at="2020-02-06T12:45:11 EET" finished-at="2020-02-06T12:45:12 EET">
+      <class name="com.igor.MainTest">
+        <test-method status="PASS" signature="load()[pri:0, instance:com.igor.MainTest@724aefc3]" name="load" is-config="true" duration-ms="15" started-at="2020-02-06T12:45:12 EET" finished-at="2020-02-06T12:45:12 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- load -->
+        <test-method status="PASS" signature="shouldNotPositiveTest()[pri:0, instance:com.igor.MainTest@724aefc3]" name="shouldNotPositiveTest" duration-ms="5" started-at="2020-02-06T12:45:12 EET" finished-at="2020-02-06T12:45:12 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldNotPositiveTest -->
+        <test-method status="PASS" signature="shouldPositiveTest()[pri:0, instance:com.igor.MainTest@724aefc3]" name="shouldPositiveTest" duration-ms="0" started-at="2020-02-06T12:45:12 EET" finished-at="2020-02-06T12:45:12 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldPositiveTest -->
+      </class> <!-- com.igor.MainTest -->
+    </test> <!-- Just tests -->
+  </suite> <!-- Just tests -->
+</testng-results>
