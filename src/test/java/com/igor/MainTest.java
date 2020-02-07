@@ -27,4 +27,9 @@ public class MainTest {
         assertFalse(main.isPositive(-5));
         System.out.println("Done");
     }
+
+    @Test
+    public void a(){
+        assertFalse(true);
+    }
 }

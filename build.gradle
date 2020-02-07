@@ -20,3 +20,18 @@ test {
     useTestNG()
     options.suites("src/test/resources/testng.xml")
 }
+
+sonarqube {
+    properties {
+        property 'sonar.projectKey', 'CIProject'
+        property 'sonar.host.url', 'http://127.0.0.1:9000'
+        property 'sonar.login', '6b106f5ea21655601fc017f63b7bb95fd5de6255'
+    }
+}
+
+task installGitHooks(type: Copy) {
+    from new File(rootProject.rootDir, 'pre-commit')
+    into { new File(rootProject.rootDir, '.git/hooks') }
+}
+
+build.dependsOn installGitHooks
