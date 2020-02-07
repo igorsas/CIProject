@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.igor.MainTest" tests="3" skipped="0" failures="1" errors="0" timestamp="2020-02-07T08:16:36" hostname="EPUALVIW1887" time="0.008">
+<testsuite name="com.igor.MainTest" tests="3" skipped="0" failures="1" errors="0" timestamp="2020-02-07T08:29:46" hostname="EPUALVIW1887" time="0.008">
   <properties/>
-  <testcase name="a" classname="com.igor.MainTest" time="0.003">
+  <testcase name="a" classname="com.igor.MainTest" time="0.004">
     <failure message="java.lang.AssertionError: did not expect to find [false] but found [true]" type="java.lang.AssertionError">java.lang.AssertionError: did not expect to find [false] but found [true]
 	at org.testng.Assert.fail(Assert.java:97)
 	at org.testng.Assert.failNotEquals(Assert.java:969)
@@ -62,7 +62,7 @@
 	at java.lang.Thread.run(Thread.java:748)
 </failure>
   </testcase>
-  <testcase name="shouldNotPositiveTest" classname="com.igor.MainTest" time="0.002"/>
+  <testcase name="shouldNotPositiveTest" classname="com.igor.MainTest" time="0.001"/>
   <testcase name="shouldPositiveTest" classname="com.igor.MainTest" time="0.0"/>
   <system-out><![CDATA[Second test is running
 Done

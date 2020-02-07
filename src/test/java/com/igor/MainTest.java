@@ -11,7 +11,7 @@ public class MainTest {
 
     @BeforeClass
     public void load() {
-        main = new Main();
+        main = new Main(); 
     }
 
     @Test
@@ -26,10 +26,5 @@ public class MainTest {
         System.out.println("Second test is running");
         assertFalse(main.isPositive(-5));
         System.out.println("Done");
-    }
-
-    @Test
-    public void a(){
-        assertFalse(true);
     }
 }
