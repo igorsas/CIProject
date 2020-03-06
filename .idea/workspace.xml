@@ -2,15 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="99f850da-66df-4573-b541-ce34bfe58a4a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/pre-commit" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/igor/SmartThread.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.2/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.2/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.2/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.2/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.2/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.2/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.2/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.2/taskHistory/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.2/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.2/taskHistory/taskHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/sonar/report-task.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/sonar/report-task.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pre-commit" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/igor/MainTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/com/igor/MainTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/com.igor.MainTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/com.igor.MainTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/com.igor.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/com.igor.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-com.igor.MainTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-com.igor.MainTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/igor/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/igor/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -136,7 +143,20 @@
       <recent name="C:\Users\Igor_Sas\IdeaProjects\CIProject" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.C:/Users/Igor_Sas/IdeaProjects/CIProject/src/test/resources/testng.xml">
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.igor.Main" />
+      <module name="CIProject.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.igor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MainTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -218,6 +238,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Gradle.MainTest" />
         <item itemvalue="Gradle.MainTest.shouldPositiveTest" />
       </list>
@@ -337,7 +358,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581064578714</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="fix route to hook">
+      <created>1581081374194</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1581081374194</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -386,10 +414,14 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="713" y="327" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1581062113228" />
-    <state x="1165" y="147" key="CommitChangelistDialog2" timestamp="1581081368793">
+    <state x="765" y="234" key="#com.intellij.ide.util.MemberChooser" timestamp="1583482742537">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="1165" y="147" key="CommitChangelistDialog2/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1581081368793" />
+    <state x="765" y="234" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1583482742537" />
+    <state x="1165" y="147" key="CommitChangelistDialog2" timestamp="1583247976769">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1165" y="147" key="CommitChangelistDialog2/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1583247976769" />
     <state x="92" y="92" width="1736" height="866" key="DiffContextDialog" timestamp="1580997486442">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -406,22 +438,22 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="758" y="230" key="Github.UntrackedFilesDialog/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1580815109981" />
-    <state width="1877" height="405" key="GridCell.Tab.0.bottom" timestamp="1581064604233">
+    <state width="1877" height="586" key="GridCell.Tab.0.bottom" timestamp="1583482783587">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="405" key="GridCell.Tab.0.bottom/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1581064604233" />
-    <state width="1877" height="405" key="GridCell.Tab.0.center" timestamp="1581064604232">
+    <state width="1877" height="586" key="GridCell.Tab.0.bottom/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1583482783587" />
+    <state width="1877" height="586" key="GridCell.Tab.0.center" timestamp="1583482783587">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="405" key="GridCell.Tab.0.center/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1581064604232" />
-    <state width="1877" height="405" key="GridCell.Tab.0.left" timestamp="1581064604232">
+    <state width="1877" height="586" key="GridCell.Tab.0.center/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1583482783587" />
+    <state width="1877" height="586" key="GridCell.Tab.0.left" timestamp="1583482783586">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="405" key="GridCell.Tab.0.left/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1581064604232" />
-    <state width="1877" height="405" key="GridCell.Tab.0.right" timestamp="1581064604232">
+    <state width="1877" height="586" key="GridCell.Tab.0.left/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1583482783586" />
+    <state width="1877" height="586" key="GridCell.Tab.0.right" timestamp="1583482783587">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="405" key="GridCell.Tab.0.right/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1581064604232" />
+    <state width="1877" height="586" key="GridCell.Tab.0.right/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1583482783587" />
     <state x="490" y="179" key="Maven.ArtifactSearchDialog" timestamp="1580813941948">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -430,17 +462,17 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="461" y="167" key="SettingsEditor/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1581061984075" />
-    <state x="552" y="257" key="Vcs.Push.Dialog.v2" timestamp="1581064582046">
+    <state x="552" y="257" key="Vcs.Push.Dialog.v2" timestamp="1581081377918">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="552" y="257" key="Vcs.Push.Dialog.v2/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1581064582046" />
+    <state x="552" y="257" key="Vcs.Push.Dialog.v2/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1581081377918" />
     <state x="731" y="227" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1580813933198">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="731" y="227" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1580813933198" />
-    <state x="591" y="227" width="737" height="596" key="find.popup" timestamp="1580997256945">
+    <state x="591" y="227" width="737" height="596" key="find.popup" timestamp="1583481858649">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="591" y="227" width="737" height="596" key="find.popup/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1580997256945" />
+    <state x="591" y="227" width="737" height="596" key="find.popup/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1583481858649" />
   </component>
 </project>
